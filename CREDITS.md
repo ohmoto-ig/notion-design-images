@@ -52,6 +52,8 @@
 | caster_rigid.jpg | https://commons.wikimedia.org/wiki/File:Rigid_Caster.jpg |
 | packaging_vffs.jpg | https://commons.wikimedia.org/wiki/File:XtraVac_Multihead_weigher_inclined_vffs_vertical_form_fill_seal_packaging_machine_with_a_simple_conveyor_and_rotary_catching_table_-_Taken_at_Pack_Expo_Chicago_2014.jpg |
 | packaging_heatseal.jpg | https://commons.wikimedia.org/wiki/File:Conductive_heat_sealing.jpg |
+| taper_pin_application.png | https://commons.wikimedia.org/wiki/File:Taper_pin_ISO2339_application_en.png |
+| inductive_proximity_switch.jpg | https://commons.wikimedia.org/wiki/File:Inductive_Proximity_Switch.jpg |
 | sheetmetal_bend.png | white-bg raster of https://commons.wikimedia.org/wiki/File:Bend_allowance.svg |
 | pneumatic_valve_5_2.png | white-bg raster of https://commons.wikimedia.org/wiki/File:5_2_solenoid_valve_example.svg |
 | safety_lightcurtain.png | white-bg raster of https://commons.wikimedia.org/wiki/File:Lightcurtain.svg |
